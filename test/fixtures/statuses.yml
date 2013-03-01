@@ -1,12 +1,18 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  
-  content: MyText
-  user: daniel
+
+   content: MyText
+   user: daniel
 
 two:
-  
-  
-  content: MyText
-  user: daniel
+
+   content: MyText
+   user: daniel
+
+three:
+
+    content: "Hi I'm Jim"
+    user: jim
+
+
